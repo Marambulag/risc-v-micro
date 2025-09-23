@@ -4,27 +4,17 @@ This repository contains a set of embedded systems class tasks developed using R
 Each file demonstrates a different concept such as GPIO, timers, LCD control, sensor reading, and assembly practice.
 
 📂 Repository Structure
-File / Folder	Description
-
-gpio_d/	Example using General Purpose I/O (GPIO) on port D.
-
-lcd_4bit.c	Control program for an LCD in 4-bit mode.
-
-lcd_d/	Additional LCD examples.
-
-practica.c	Class practice exercise (C).
-
-practica2.c	Second practice exercise (C).
-
-reto2_Contador_Timer.c	Timer-based counter implementation.
-
-Sensor_Temperatura.c	Temperature sensor reading and display example.
-
-matrix.s	Assembly language exercise (matrix operation).
-
-riscv-32i/	Supporting code for RV32I instruction set examples.
-
-result.png	Screenshot of one exercise result/output.
-
-riscv.pdf	Notes or reference material from the class.
+| File / Folder              | Description |
+|-----------------------------|-------------|
+| `gpio_d/`                   | GPIO example driver. |
+| `lcd_4bit.c`                | LCD control in 4-bit mode. |
+| `lcd_d/`                     | LCD driver example. |
+| `practica.c`                | First practice exercise. |
+| `practica2.c`               | Second practice exercise. |
+| `reto2_Contador_Timer.c`    | Timer-based counter. |
+| `Sensor_Temperatura.c`      | Temperature sensor example. |
+| `matrix.s`                   | Assembly matrix exercise. |
+| `riscv-32i/`                 | RV32I Single Cycle. |
+| `result.png`                 | Matrix exercise result. |
+| `riscv.pdf`                  | Single Cycle Result. |
 
