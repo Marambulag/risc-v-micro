@@ -1,6 +1,6 @@
 risc-v-micro
 
-This repository contains a set of embedded systems class tasks developed using RISC-V and microcontroller-level peripherals.
+This repository contains a set of embedded systems class tasks developed using a microcontroller.
 Each file demonstrates a different concept such as GPIO, timers, LCD control, sensor reading, and assembly practice.
 
 📂 Repository Structure
